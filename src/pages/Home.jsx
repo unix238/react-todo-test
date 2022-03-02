@@ -12,7 +12,7 @@ export const Home = () => {
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://github.com/unix238/react-todo-test"
             target="_blank"
             rel="noopener noreferrer"
           >
