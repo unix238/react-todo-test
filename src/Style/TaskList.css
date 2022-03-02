@@ -1,0 +1,13 @@
+.task__list {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    min-height: 650px;
+    height: 100%;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 5px #ccc;
+}
